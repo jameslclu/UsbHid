@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UsbHid.iml" filepath="$PROJECT_DIR$/UsbHid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/UsbHid-app.iml" filepath="$PROJECT_DIR$/app/UsbHid-app.iml" group="UsbHid/app" />
+      <module fileurl="file://$PROJECT_DIR$/usb-hid/UsbHid-usb-hid.iml" filepath="$PROJECT_DIR$/usb-hid/UsbHid-usb-hid.iml" group="UsbHid/usb-hid" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github-UsbHid.iml" filepath="$PROJECT_DIR$/github-UsbHid.iml" group="UsbHid" />
       <module fileurl="file://$PROJECT_DIR$/usb-hid/usb-hid.iml" filepath="$PROJECT_DIR$/usb-hid/usb-hid.iml" />
     </modules>
   </component>
